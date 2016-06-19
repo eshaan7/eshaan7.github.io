@@ -8,16 +8,6 @@
   box-sizing: border-box;
 }
 
-.em {
-height:1.5em;width:1.5em;background-position:center;background-repeat:no-repeat;background-size:contain;display:inline-block;vertical-align:middle;
-}
-.em-wave {
-background-image:url("http://emojicss.com/emoji/wave.png";
-}
-.em-eyes {
-background-image:url("http://emojicss.com/emoji/eyes.png");
-}
-
 body {
   display: flex;
   flex-direction: column;
