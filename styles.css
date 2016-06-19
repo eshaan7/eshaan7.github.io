@@ -7,6 +7,13 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+img.emoji {  
+  // Override any img styles to ensure Emojis are displayed inline
+  margin: 0px !important;
+  display: inline !important;
+}
+
 body {
   display: flex;
   flex-direction: column;
