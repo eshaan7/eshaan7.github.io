@@ -24,7 +24,7 @@ window.onload = function() {
   }
 
   var messages = [
-    'Hey there 👋',
+    'Hey there &#x1F44B;',
     'I\'m Eshaan',
     'I\'m in highschool. I have no idea what I am doing with my life. ',
     'You can contact me at <a href="mailto:ishubansal2000@gmail.com">ishubansal2000@gmail.com</a>',
