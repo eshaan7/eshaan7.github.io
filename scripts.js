@@ -19,10 +19,12 @@ window.onload = function() {
     if (current >= 5 && current < 19) return 'Have a nice day';
     if (current >= 19 && current < 22) return 'Have a nice evening';
     if (current >= 22 || current < 5) return 'Have a good night';
+    twemoji.size = '16x16';
+    twemoji.parse(document.body);
   }
 
   var messages = [
-    'Hey there 👋',
+    'Hey there twemoji.parse('👋')',
     'I\'m Eshaan',
     'I\'m in highschool. I have no idea what I am doing with my life. ',
     'You can contact me at <a href="mailto:ishubansal2000@gmail.com">ishubansal2000@gmail.com</a>',
