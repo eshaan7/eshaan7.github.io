@@ -22,10 +22,10 @@ window.onload = function() {
   }
 
   var messages = [
-    'Hey there 👋',
+    'Hey there <i class="em em-wave"></i> 👋',
     'I\'m Eshaan',
-    'I have no idea what I am doing with my life. ',
-    'I\'m in highschool. <br> You can contact me at <a href="mailto:ishubansal2000@gmail.com">ishubansal2000@gmail.com</a>',
+    'I\'m in highschool. I have no idea what I am doing with my life. ',
+    'You can contact me at <a href="mailto:ishubansal2000@gmail.com">ishubansal2000@gmail.com</a>',
    '<a target="_blank" href="https://www.facebook.com/ishu.bansal.cr7">facebook.com/ishu.bansal.cr7</a><br><a target="_blank" href="https://www.instagram.com/16withscars/">instagram.com/16withscars</a><br><a target="_blank" href="https://www.youtube.com/channel/UCUe8He0e3JRpSOeT3JLI-AQ">youtube/EshaanBansal</a><br><a target="_blank" href="https://github.com/Eshaan7">github.com/Eshaan7</a>',
     'My creations : <br> <a target="_blank" href="https://eshaan7.github.io/Rockpaperscissors/">Rock, Paper & Scissor game</a><br><a target="_blank" href="https://eshaan7.github.io/Solarsystem_CSS/">Solar System animation</a>',
     getCurrentTime(),
