@@ -1,2 +1,3 @@
 Personal website
-Vistit : https://eshaan7.github.io/
+
+Visit : https://eshaan7.github.io/
