@@ -20,7 +20,7 @@ window.onload = function() {
     if (current >= 19 && current < 22) return 'Have a nice evening';
     if (current >= 22 || current < 5) return 'Have a good night';
     twemoji.size = '16x16';
-    twemoji.parse(document.body;
+    twemoji.parse(document.body);
   }
 
   var messages = [
