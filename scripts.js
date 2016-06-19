@@ -22,7 +22,7 @@ window.onload = function() {
   }
 
   var messages = [
-    'Hey there' document.write("<i class="em em-some-emoji"></i>"),
+    'Hey there' document.write(<i class="em em-wave">''</i>),
     'I\'m Eshaan',
     'I have no idea what I am doing with my life. ',
     'I\'m in highschool. <br> You can contact me at <a href="mailto:ishubansal2000@gmail.com">ishubansal2000@gmail.com</a>',
