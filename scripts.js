@@ -29,7 +29,7 @@ window.onload = function() {
    '<a target="_blank" href="https://www.instagram.com/16withscars/">instagram.com/16withscars</a><br><a target="_blank" href="https://www.youtube.com/channel/UCUe8He0e3JRpSOeT3JLI-AQ">youtube.com/EshaanBansal</a><br><a target="_blank" href="https://github.com/Eshaan7">github.com/Eshaan7</a>',
     'My creations : <br> <a target="_blank" href="https://eshaan7.github.io/Rockpaperscissors/">Rock, Paper & Scissor game</a><br><a target="_blank" href="https://eshaan7.github.io/Solarsystem_CSS/">Solar System animation</a>',
     getCurrentTime(),
-    '<i class="twa twa-eyes"></i> E.'
+    '<i class="twa twa-eyes"></i> E.',
   ]
 
   var getFontSize = function() {
