@@ -75,3 +75,10 @@ body {
   display: inline-block;
   color: rgba(0,0,0,.5);
 }
+
+.em-wave {
+height:1.5em;width:1.5em;background-position:center;background-repeat:no-repeat;background-size:contain;display:inline-block;vertical-align:middle;background-image:url("http://emojicss.com/emoji/wave.png";
+}
+.em-eyes {
+background-image:url("http://emojicss.com/emoji/eyes.png");
+}
