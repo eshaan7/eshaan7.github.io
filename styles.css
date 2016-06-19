@@ -76,9 +76,3 @@ body {
   color: rgba(0,0,0,.5);
 }
 
-.em-wave {
-height:3rem;width: 3rem;background-image:url("http://emojicss.com/emoji/wave.png");
-}
-.em-eyes {
-background-image:url("http://emojicss.com/emoji/eyes.png");
-}
