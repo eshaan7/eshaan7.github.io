@@ -7,7 +7,7 @@
 window.onload = function() {
 
   var messagesEl = document.querySelector('.messages');
-  var typingSpeed = 50;
+  var typingSpeed = 20;
   var loadingText = '<b>•</b><b>•</b><b>•</b>';
   var messageIndex = 0;
 
@@ -103,7 +103,7 @@ window.onload = function() {
       width: ['0rem', dimensions.loading.w],
       marginTop: ['2.5rem', 0],
       marginLeft: ['-2.5rem', 0],
-      duration: 800,
+      duration: 100,
       easing: 'easeOutElastic'
     });
     var loadingLoop = anime({
