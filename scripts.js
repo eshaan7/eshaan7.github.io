@@ -109,7 +109,7 @@ window.onload = function() {
     var loadingLoop = anime({
       targets: elements.bubble,
       scale: [1.05, .95],
-      duration: 1100,
+      duration: 500,
       loop: true,
       direction: 'alternate',
       easing: 'easeInOutQuad'
