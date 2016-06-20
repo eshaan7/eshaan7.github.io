@@ -18,7 +18,7 @@ window.onload = function() {
     var current = hours + (minutes * .01);
     if (current >= 5 && current < 19) return 'Have a nice day <i class="twa twa-sunny></i>';
     if (current >= 19 && current < 22) return 'Have a nice evening <i class="twa twa-wave"></i>';
-    if (current >= 22 || current < 5) return 'Have a good night <i class="twa twa-city_sunrise""></i>';
+    if (current >= 22 || current < 5) return 'Have a good night <i class="twa twa-city_sunrise"></i>';
   }
 
   var messages = [
