@@ -103,7 +103,7 @@ window.onload = function() {
       width: ['0rem', dimensions.loading.w],
       marginTop: ['2.5rem', 0],
       marginLeft: ['-2.5rem', 0],
-      duration: 100,
+      duration: 800,
       easing: 'easeOutElastic'
     });
     var loadingLoop = anime({
