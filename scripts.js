@@ -25,7 +25,7 @@ window.onload = function() {
     'Hey there <i class="twa twa-wave"></i>',
     'I\'m Eshaan',
     'I\'m in college. I have no idea what I am doing with my life. ',
-    'You can contact me at <br><a href="mailto:ishubansal2000@gmail.com">ishubansal2000@gmail.com</a><br><a target="_blank" href="https://www.facebook.com/ishu.bansal.cr7">facebook.com/ishu.bansal.cr7</a>',
+    'You can contact me at <br><a href="mailto:ishubansal2000@gmail.com">ishubansal2000@gmail.com</a><br>',
    '<a target="_blank" href="https://www.instagram.com/maskofmydisguise/">instagram.com/maskofmydisguise</a><br><a target="_blank" href="https://www.youtube.com/channel/UCUe8He0e3JRpSOeT3JLI-AQ">youtube.com/EshaanBansal</a><br><a target="_blank" href="https://github.com/Eshaan7">github.com/Eshaan7</a>',
     'My projects : <br> <a target="_blank" href="https://eshaan7.github.io/Rockpaperscissors/">Rock, Paper & Scissor game</a><br><a target="_blank" href="https://github.com/Eshaan7/Programming_with_CPP">C++ projects</a>',
     getCurrentTime(),
