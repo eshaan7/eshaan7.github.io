@@ -25,7 +25,7 @@ window.onload = function() {
     'Hey there <i class="twa twa-wave"></i>',
     'I\'m Eshaan',
     'I\'m a freshman at USICT. I have no idea what I am doing with my life. ',
-    'You can contact me at <br><a href="mailto:ishubansal2000@gmail.com">ishubansal2000@gmail.com</a><br><a target="_blank" href="https://www.instagram.com/maskofmydisguise/">instagram.com/maskofmydisguise</a>',
+    'You can contact me at <br><a href="https://twitter.com/scriptnotsokid">twitter.com/eshaan</a><br><a target="_blank" href="https://www.instagram.com/maskofmydisguise/">instagram.com/maskofmydisguise</a>',
    '<a target="_blank" href="https://www.youtube.com/channel/UCUe8He0e3JRpSOeT3JLI-AQ">youtube.com/EshaanBansal</a><br><a target="_blank" href="https://github.com/Eshaan7">github.com/Eshaan7</a><br><a target="_blank" href="https://www.linkedin.com/in/eshaan-bansal-6a8287164/">linkedin.com/Eshaan</a>',
     'My projects : <br><a target="_blank" href="https://sharenotesonhaste.herokuapp.com">ShareNotesOnHaste</a><br> <a target="_blank" href="https://eshaan7.github.io/Rockpaperscissors/">Rock, Paper & Scissor game</a><br><a target="_blank" href="https://github.com/Eshaan7/RenameThemSubs">RenameThemSubs</a><br> <a target="_blank" href="https://github.com/Eshaan7/PacketAnalyzer">PacketAnalyzer</a>',
     getCurrentTime(),
