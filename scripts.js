@@ -26,7 +26,7 @@ window.onload = function() {
     'I\'m Eshaan',
     'I\'m a freshman at USICT. I have no idea what I am doing with my life. ',
     'I play CTFs as <a target="_blank" href="https://www.abs0lut3pwn4g3.cf/">Abs0lut3Pwn4g3</a>.',
-    'You can contact me at <br><a href="https://twitter.com/m4sk0fmyd1sgu1s">twitter.com/m4sk0fmyd1sgu1s</a><br><a target="_blank" href="https://www.instagram.com/maskofmydisguise/">instagram.com/maskofmydisguise</a>',
+    'You can contact me at <br><a href="https://twitter.com/mask0fmydisguis">twitter.com/mask0fmydisguis</a><br><a target="_blank" href="https://www.instagram.com/maskofmydisguise/">instagram.com/maskofmydisguise</a>',
    '<a target="_blank" href="https://www.youtube.com/channel/UCUe8He0e3JRpSOeT3JLI-AQ">youtube.com/EshaanBansal</a><br><a target="_blank" href="https://github.com/Eshaan7">github.com/Eshaan7</a><br><a target="_blank" href="https://www.linkedin.com/in/eshaan-bansal-6a8287164/">linkedin.com/Eshaan</a>',
     'My projects : <br><a target="_blank" href="https://sharenotesonhaste.herokuapp.com">ShareNotesOnHaste</a><br> <a target="_blank" href="https://eshaan7.github.io/Rockpaperscissors/">Rock, Paper & Scissor game</a><br><a target="_blank" href="https://github.com/Eshaan7/RenameThemSubs">RenameThemSubs</a><br> <a target="_blank" href="https://github.com/Eshaan7/PacketAnalyzer">PacketAnalyzer</a>',
     getCurrentTime(),
