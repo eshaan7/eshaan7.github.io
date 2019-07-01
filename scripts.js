@@ -1,8 +1,3 @@
-/*
- * This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. 
- * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/.
- * Copyright (c) 2016 Julian Garnier
- */
 
 window.onload = function() {
 
@@ -28,7 +23,7 @@ window.onload = function() {
     'I play CTFs as <a target="_blank" href="https://www.abs0lut3pwn4g3.cf/">Abs0lut3Pwn4g3</a>.',
     'You can contact me at <br><a target="_blank" href="https://linkedin.com/in/eshaan7">linkedin.com/in/Eshaan7</a><br><a target="_blank" href="https://twitter.com/mask0fmydisguis">twitter.com/mask0fmydisguis</a><br><a target="_blank" href="https://www.instagram.com/maskofmydisguise/">instagram.com/maskofmydisguise</a>',
    '<a target="_blank" href="https://www.youtube.com/channel/UCUe8He0e3JRpSOeT3JLI-AQ">youtube.com/EshaanBansal</a><br><a target="_blank" href="https://github.com/Eshaan7">github.com/Eshaan7</a>',
-    'My projects : <br><a target="_blank" href="https://sharenotesonhaste.herokuapp.com">ShareNotesOnHaste</a><br><a target="_blank" href="https://github.com/Eshaan7/RenameThemSubs">RenameThemSubs</a><br> <a target="_blank" href="https://github.com/Eshaan7/PacketAnalyzer">PacketAnalyzer</a>',
+    'My projects : <br/><a target="_blank" href="https://github.com/Eshaan7/IPU_GPA_Calculator">IPU GPA Calculator</a><br><a target="_blank" href="https://sharenotesonhaste.herokuapp.com">ShareNotesOnHaste</a><br><a target="_blank" href="https://github.com/Eshaan7/RenameThemSubs">RenameThemSubs</a><br> <a target="_blank" href="https://github.com/Eshaan7/PacketAnalyzer">PacketAnalyzer</a>',
     getCurrentTime(),
     '<i class="twa twa-eyes"></i> E.',
   ]
