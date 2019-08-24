@@ -20,7 +20,7 @@ window.onload = function() {
     'Hey there <i class="twa twa-wave"></i>',
     'I\'m Eshaan',
     'I\'m a sophomore at USICT. I have no idea what I am doing with my life.',
-    'I play CTFs as <a target="_blank" href="https://www.abs0lut3pwn4g3.cf/">Abs0lut3Pwn4g3</a>.<br/>I serve as part of the core team at <a target="_blank" href="https://dc91120.org/">DEF CON 91120 NCR Group</a><br/><a target="_blank" href="https://medium.com/@eshaan7">Blog on Medium</a>',
+    '<a target="_blank" href="https://medium.com/@eshaan7">Blog on Medium</a>.<br/>I play CTFs as <a target="_blank" href="https://www.abs0lut3pwn4g3.cf/">Abs0lut3Pwn4g3</a>.<br/>I serve as part of the core team at <a target="_blank" href="https://dc91120.org/">DEF CON 91120 NCR Group</a>.',
     'Get in touch: <br><a target="_blank" href="https://linkedin.com/in/eshaan7">linkedin.com/in/Eshaan7</a><br><a target="_blank" href="https://twitter.com/mask0fmydisguis">twitter.com/mask0fmydisguis</a><br/><a target="_blank" href="https://github.com/Eshaan7">github.com/Eshaan7</a>',
     'My projects : <br/><a target="_blank" href="https://github.com/abs0lut3pwn4g3/RTB-CTF-Framework">RootTheBox - A CTF Framework in Flask</a><br/><a target="_blank" href="https://github.com/Eshaan7/IPU_GPA_Calculator">IPU GPA Calculator - PWA in Flask</a><br/><a target="_blank" href="https://github.com/Eshaan7/PacketSniffer">PacketSniffer - Python</a>',
     'I am looking for pentesting internships: <a target="_blank" href="https://drive.google.com/file/d/1BLJXR_rFFLP7wobE-Fog363JcbH5uttQ/view">My Resume</a>',
