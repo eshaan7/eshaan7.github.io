@@ -1,0 +1,28 @@
+<div class="container achievements-container" id="#achievements">
+    <h3>{{ site.achievements_title | default: "Achievements" }}</h3>
+
+    {% for achievement in site.data.achievements %}
+
+    <div class="row clearfix layout layout-left">
+        <div class="col-xs-12 col-sm-5 col-md-3 col-print-12 details">
+            <h5>{{ achievement.name }}</h5>
+            {%- if achievement.title -%}<p><b>{{ achievement.title }}</b></p>{%- endif -%}
+            {%- if achievement.link -%}
+                <i class="fa fa-trophy"></i>
+                -
+                <a href="{{ achievement.link }}" target="_blank" class="link"><small>{{ achievement.link_name }}</small></a>
+            {%- endif -%}
+            <p>
+                {%- for tag in achievement.tags -%}
+                {{tag | strip | markdownify}}
+                {% endfor %}
+            </p>
+        </div>
+        <div class="col-xs-12 col-sm-8 col-md-9 col-print-12">
+            {{ achievement.description | strip | markdownify }}
+        </div>
+    </div>
+
+    {% endfor %}
+
+</div>

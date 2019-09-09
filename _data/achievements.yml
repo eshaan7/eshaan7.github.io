@@ -1,0 +1,20 @@
+# Project template
+
+- layout: left
+  name: PentesterLab.com 
+  link: https://pentesterlab.com/profile/b816e1d933bc771a2aef91ffeb
+  link_name: See Credentials
+  description: |
+    - Completed 12 badges and wrote a [<mark>blog post</mark>](https://medium.com/techspace-usict/pentesterlab-com-my-experience-totally-awesome-and-totally-not-getting-paid-for-this-4231ed35ccb6)
+     on my key learnings!
+
+- layout: left
+  name: Abs0lut3Pwn4g3 CTF Team
+  link: https://abs0lut3pwn4g3.github.io/
+  link_name: https://abs0lut3pwn4g3.github.io/
+  title: Founding Member & CTF Player
+  description: |
+    - Ranked under \#10 in India and \#100 all over the world on [CTFtime.org](https://ctftime.org/team/72103)
+    - Solely designed and deployed team website.
+    - Actively Participating and conducting various CTFs.
+    - Publishing [<mark>CTF writeups</mark>](https://www.abs0lut3pwn4g3.cf/writeups/)

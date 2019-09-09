@@ -1,0 +1,23 @@
+# Project template
+
+- layout: left
+  name: RootTheBox - A CTF Framework in Flask 
+  link: https://rtblivedemo.herokuapp.com/
+  github: abs0lut3pwn4g3/RTB-CTF-Framework/
+  quote: >
+    A CTF framework (developed in Flask/Python) for [HackTheBox](https://hackthebox.eu) style machines.
+  tags: <mark>Flask</mark>
+        <mark>SQLAlchemy</mark>
+        <mark>Heroku</mark>
+        <mark>JWT</mark>
+        <mark>Flask-Blueprints</mark>
+        <mark>Flask-admin</mark>
+        <mark>PostgreSQL</mark>
+  description: | # this will include new lines to allow paragraphs
+    - Employed libraries like Flask Blueprints, SQLAlchemy, WTForms, Flask-Login, Flask-admin for Admin views and easy realtime management
+    - Out of the box deployable on Heroku
+    - Using SQLite and PostgreSQL for Database.
+    - A page to show relevant details about the machine such as name, IP, OS, points and difficulty level
+    - Features like User Authentication, account management, Forgot password, Notifications, Full Fledged Logging
+    - Hash submission (currently 2 hashes: user and root)
+    - Real time scoreboard tracking.
