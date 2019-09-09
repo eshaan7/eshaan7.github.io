@@ -32,7 +32,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am actively looking for cybersecurity and research internships for winter 2019. I am available remotely too.
 
-  _A pdf version of my resume is available [here](https://drive.google.com/file/d/1BLJXR_rFFLP7wobE-Fog363JcbH5uttQ/view)._
+  _A pdf version of my resume is available <a href="https://drive.google.com/file/d/1BLJXR_rFFLP7wobE-Fog363JcbH5uttQ/view" target="_blank" >here</a>._
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)

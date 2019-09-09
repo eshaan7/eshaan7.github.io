@@ -7,13 +7,14 @@
   quote: >
     University School of Information, Communication and Technology, GGSIPU Main Campus.
   description: | # this will include new lines to allow paragraphs
-    General secretary of the cyber security club, [Rooters](https://techspace.club/).
+    - General secretary of the cyber security club, <a href="https://techspace.club/" target="_blank">Rooters</a>.
 
 - layout: left
   name: Kulachi Hansraj Model School
   dates: 2016 - 2018
   qualification: Higher Secondary; Physics, Chemistry, Mathematics and Computer Science.
   description: | # this will include new lines to allow paragraphs
+    - Graduated High school with <mark>94.6%</mark> in CBSE boards.
     - Received a trophy and a certificate for scoring highest in Physics in senior year of high school.
     - Completed my high school project in computer science on "Bank Management System". Tech used: **C++** and **MySQL**
      
