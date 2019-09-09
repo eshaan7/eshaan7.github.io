@@ -21,20 +21,18 @@ linkedin_username: eshaan7
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  I am a **Sophomore** pursuing B.Tech in IT at [USICT](https://ipu.ac.in/usict),  GGSIPU Main Campus. 
+  I am a **Sophomore** pursuing B.Tech in IT at [USICT](https://ipu.ac.in/usict), GGSIPU Main Campus. 
 
-  Skilled in **Python**, **Web Pentesting**, **Linux**, **JavaScript** and **C**.
+  My CS interests currently lie in <mark>Cybersecurity</mark> and <mark>Web Development</mark>.
 
-  Holds [11 certificates](https://pentesterlab.com/profile/b816e1d933bc771a2aef91ffeb) from [PentesterLab.com](https://pentesterlab.com/) on Web Security.
-  
   The most interesting things happening in my life, right now, academically speaking are:
-  - Working as a [Fullstack web development](#experience) intern at <a href="https://zoai.in/" target="_blank">Zoai Technologies</a>
+  - Working as a [<mark>Fullstack web development</mark>](#experience) intern at <a href="https://zoai.in/" target="_blank">Zoai Technologies</a>
   - Serving as part of the core team at DEF CON NCR group, DC91120
-  - Serving as the general secretary at the cyber security club, [Rooters](https://techspace.club/) at USICT.
+  - Serving as the General Secretary at the cyber security club, <a href="https://techspace.club/" target="_blank">Rooters</a> at USICT.
 
   I am actively looking for cybersecurity and research internships for winter 2019. I am available remotely too.
 
-  _A pdf version of my resume is available [here](https://drive.google.com/file/d/1BLJXR_rFFLP7wobE-Fog363JcbH5uttQ/view)_
+  _A pdf version of my resume is available [here](https://drive.google.com/file/d/1BLJXR_rFFLP7wobE-Fog363JcbH5uttQ/view)._
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
