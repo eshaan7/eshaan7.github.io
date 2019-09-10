@@ -211,3 +211,24 @@ p.quote {
     margin-top: 1em;
   }
 }
+
+.card-box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between !important;
+}
+
+.card-box-item {
+  margin: 3px;
+  border: 0.2px dashed black !important;
+  flex-grow: 1;
+  flex-shrink: 1;
+}
+
+.link-underlined {
+  text-decoration: underline;
+}
+
+.link-underlined:hover {
+  text-decoration: none;
+}

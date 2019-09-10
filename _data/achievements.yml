@@ -1,15 +1,29 @@
 # Project template
 
-- layout: left
-  name: PentesterLab.com 
+- name: PentesterLab.com 
   link: https://pentesterlab.com/profile/b816e1d933bc771a2aef91ffeb
   link_name: See Credentials
   description:
-    Completed 12 badges and wrote a [<mark>blog post</mark>](https://medium.com/techspace-usict/pentesterlab-com-my-experience-totally-awesome-and-totally-not-getting-paid-for-this-4231ed35ccb6)
+    Completed 12 badges and wrote a 
+    <a href="https://medium.com/techspace-usict/pentesterlab-com-my-experience-totally-awesome-and-totally-not-getting-paid-for-this-4231ed35ccb6" 
+    target="_blank" class="link-underlined">blog post</a>
      on my key learnings!
 
-- layout: left
-  name: Abs0lut3Pwn4g3 CTF Team
+
+- name: Google Cloud Platform(GCP) Essentials
+  link: https://run.qwiklabs.com/public_profiles/a30c5c18-fe11-47f0-871f-b2953f22eec1
+  link_name: See Credentials
+  description:
+   Completed GCP Essentials badge on Google's qwiklabs.
+  
+
+- name: Python for Security Professionals
+  link: https://drive.google.com/file/d/1B6UkHsStZI9n1vComcTc1C2kSLHdvdl0/view
+  link_name: See Credentials
+  description:
+    Python for Security Professionals course at Cybrary.it.
+
+- name: Abs0lut3Pwn4g3 CTF Team
   link: https://abs0lut3pwn4g3.github.io/
   link_name: https://abs0lut3pwn4g3.github.io/
   title: Founding Member & CTF Player
