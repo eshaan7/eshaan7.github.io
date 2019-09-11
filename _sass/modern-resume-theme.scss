@@ -212,6 +212,9 @@ p.quote {
   }
 }
 
+/* Custom CSS */
+
+
 .card-box {
   display: flex;
   flex-wrap: wrap;
@@ -220,9 +223,15 @@ p.quote {
 
 .card-box-item {
   margin: 3px;
+  padding: 5px;
   border: 0.2px dashed black !important;
+  width: 30%;
   flex-grow: 1;
   flex-shrink: 1;
+
+  @media screen and (max-width: 768px) {
+    width: 40% !important;
+  }
 }
 
 .link-underlined {

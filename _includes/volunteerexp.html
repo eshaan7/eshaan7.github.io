@@ -1,0 +1,6 @@
+<div class="container volunteerexperience-container" id="volunteering_experience">
+    <h3>{{ site.volunteering_experience_title | default: "Volunteering Experience" }}</h3>
+    {% for exp in site.data.volunteering_experience %}
+    {% include {{ exp.layout | default: 'left' | append: ".html" }} item=exp %}
+    {% endfor %}
+</div>

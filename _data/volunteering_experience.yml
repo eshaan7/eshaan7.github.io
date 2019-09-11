@@ -1,0 +1,32 @@
+- layout: left
+  company: DEF CON 91120
+  link: dc91120.org
+  job_title: Core Member at Organizing Team
+  dates: April 2019 - Present
+  quote: >
+    DEFCON 91120, NCR India, is a DCG by DEF CON.
+    Our community is open and free for all who are interested in information and application security domain. 
+    This is a not-for-profit organization. You learn, earn and share with the community. 
+  description: |
+    Being part of the core organizing team, my responsibilites include: 
+    - Helping and organizing the hacker's meet ups every 2-3 months.
+    - Networking with other security researchers and speakers who are interested
+    in presenting a CFP at the meetups.
+
+    Problem Setter for Capture The Flag(CTF) competitions that are held at every meet up, for which I:
+      - Gave a live writeup/demo session on my challenges at 0x01 meet.
+      - Wrote a [CTF framework](#projects) in Flask for 0x02 meet CTF
+
+- layout: left
+  company: Abs0lut3Pwn4g3 CTF Team
+  link: https://abs0lut3pwn4g3.github.io/
+  job_title: Founding Member & CTF Player
+  quote: >
+   Abs0lut3Pwn4g3 is a group of developers and hackers. We participate in (and conduct) Capture The Flag Competitions.
+  description: |
+    - Ranked under \#10 in India and \#100 all over the world on <a href="https://ctftime.org/team/72103" taget="_blank">CTFtime.org</a>
+    - Organised an online Capture The Flag(CTF) competition, <a href="https://ctftime.org/event/771" target="_blank">encryptCTF</a> 2019 in which 1000+ teams participated from all over the world.
+    - Rank 2nd in Krack-JIIT CTF
+    - Rank 18th in BITS CTF
+    - Under Top \#10 team(India) in cyBRICS 2019 CTF Quals.
+    - Publishing <a href="https://www.abs0lut3pwn4g3.cf/writeups/" target="_blank" ><mark>CTF writeups</mark></a>

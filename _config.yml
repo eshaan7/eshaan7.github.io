@@ -46,6 +46,9 @@ about_content: | # this will include new lines to allow paragraphs
 # Achievements Section
 achievements_title: "Few things I am proud of"
 
+# Volunteering Experience section
+volunteering_experience_title: "Infosec Community"
+
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs

@@ -26,26 +26,6 @@
     of Visier.com  for Responsible Disclosure of CORS vulnerability.
 
 
-- layout: left
-  company: DEF CON 91120
-  link: dc91120.org
-  job_title: Core Member at Organizing Team
-  dates: April 2019 - Present
-  quote: >
-    DEFCON 91120, NCR India, is a DCG by DEF CON.
-    Our community is open and free for all who are interested in information and application security domain. 
-    This is a not-for-profit organization. You learn, earn and share with the community. 
-  description: |
-    Being part of the core organizing team, my responsibilites include: 
-    - Helping and organizing the hacker's meet ups every 2-3 months.
-    - Networking with other security researchers and speakers who are interested
-    in presenting a CFP at the meetups.
-
-    Problem Setter for Capture The Flag(CTF) competitions that are held at every meet up, for which I:
-      - Gave a live writeup/demo session on my challenges at 0x01 meet.
-      - Wrote a [CTF framework](#projects) in Flask for 0x02 meet CTF
-
-
 # - layout: left
 #   company: Techspace, USICT
 #   link: techspace.club

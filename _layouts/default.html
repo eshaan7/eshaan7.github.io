@@ -16,6 +16,10 @@
       {%- include experience.html -%}
       {%- endif -%}
 
+      {%- if site.data.volunteering_experience.size > 0 -%}
+      {%- include volunteerexp.html -%}
+      {%- endif -%}
+
       {%- if site.data.projects.size > 0 -%}
         {%- include projects.html -%}
       {%- endif -%}
