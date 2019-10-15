@@ -14,10 +14,10 @@
         <mark>Flask-admin</mark>
         <mark>PostgreSQL</mark>
   description: | # this will include new lines to allow paragraphs
-    - Employed libraries like Flask Blueprints, SQLAlchemy, WTForms, Flask-Login, Flask-admin for Admin views and easy realtime management
+    - Employed libraries such as: Flask Blueprints, SQLAlchemy, WTForms, Flask-Login, Flask-admin for Admin views and easy realtime management
     - Out of the box deployable on Heroku
     - Using SQLite and PostgreSQL for Database.
-    - A page to show relevant details about the machine such as name, IP, OS, points and difficulty level
-    - Features like User Authentication, account management, Forgot password, Notifications, Full Fledged Logging
+    - A page to show relevant details about the machine such as: IP, OS, points and difficulty level
+    - Features like User Authentication, Account Management, Forgot Password, Notifications, and Full Fledged Logging
     - Hash submission (currently 2 hashes: user and root)
     - Real time scoreboard tracking.
