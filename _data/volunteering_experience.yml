@@ -8,21 +8,21 @@
     Our community is open and free for all who are interested in information and application security domain. 
     This is a not-for-profit organization. You learn, earn and share with the community. 
   description: |
-    Being part of the core organizing team, my responsibilites include: 
-    - Helping and organizing the hacker's meet ups every 2-3 months.
+    Being part of the core organizing team, my responsibilites included: 
+    - Helping and organizing the hacker's meetup every 2 to 3 months.
     - Networking with other security researchers and speakers who are interested
     in presenting a CFP at the meetups.
 
-    Problem Setter for Capture The Flag(CTF) competitions that are held at every meet up, for which I:
-      - Gave a live writeup/demo session on my challenges at 0x01 meet.
-      - Wrote a [CTF framework](#projects) in Flask for 0x02 meet CTF
+    Problem Setter, for Capture The Flag(CTF) competitions that are held at every meet up, for which I:
+      - Presented a live write-up/demo session on my challenges at the 0x01 meet.
+      - Wrote a [CTF framework](#projects) in Flask for the 0x02 meet CTF.
 
 - layout: left
   company: Abs0lut3Pwn4g3 CTF Team
   link: https://abs0lut3pwn4g3.github.io/
   job_title: Founding Member & CTF Player
   quote: >
-   Abs0lut3Pwn4g3 is a group of developers and hackers. We participate in (and conduct) Capture The Flag Competitions.
+   Abs0lut3Pwn4g3 is a group of developers and hackers, who participates in and conduct the Capture The Flag Competitions.
   description: |
     - Ranked under \#10 in India and \#100 all over the world on <a href="https://ctftime.org/team/72103" taget="_blank">CTFtime.org</a>
     - Organised 2 Capture The Flag(CTF) competitions, <a href="https://ctftime.org/event/771" target="_blank">encryptCTF</a> and <a href="https://ctftime.org/event/886" target="_blank">RootersCTF</a> 2019 in which 1000+ teams participated from all over the world.
