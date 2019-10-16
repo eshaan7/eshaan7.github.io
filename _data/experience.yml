@@ -8,7 +8,7 @@
   quote: >
    Zoai helps hundreds of restaurants run their business: from secure online payments to point-of-sale solutions.
   description: | # this will include new lines to allow paragraphs
-    Development and Prototyping of the Flagship project of the startup i.e a Restaurant Management Platform(point-of-sale) which is being prepared as a Saas. 
+    Development and Prototyping of the Flagship project of the startup i.e. a Restaurant Management Platform(point-of-sale) which is being prepared as a Saas. 
   tags: <mark>Flask</mark>
         <mark>Angular 8</mark>
         <mark>PostgresSQL</mark>
@@ -34,4 +34,4 @@
 #   quote: >
 #     Techspace, an umbrella organisation of 9 programming/technical knowledge clubs, is the "of the students, by the students, for the students" technical society of USICT that works towards promoting discussion, creative collaboration, research and skill development.
 #   description: |
-#     General ecretary/Mentor of Cyber Security Club, Rooters.
+#     General Scretary/Mentor of Cyber Security Club, Rooters.
