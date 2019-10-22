@@ -8,14 +8,14 @@
     Our community is open and free for all who are interested in information and application security domain. 
     This is a not-for-profit organization. You learn, earn and share with the community. 
   description: |
-    Being part of the core organizing team, my responsibilites included: 
+    Being part of the core organizing team, my responsibilites include: 
     - Helping and organizing the hacker's meetup every 2 to 3 months.
     - Networking with other security researchers and speakers who are interested
     in presenting a CFP at the meetups.
 
     Problem Setter, for Capture The Flag(CTF) competitions that are held at every meet up, for which I:
       - Presented a live write-up/demo session on my challenges at the 0x01 meet.
-      - Wrote a [CTF framework](#projects) in Flask for the 0x02 meet CTF.
+      - Wrote a [CTF framework](#projects) in Flask for the 2nd meet CTF.
 
 - layout: left
   company: Abs0lut3Pwn4g3 CTF Team
