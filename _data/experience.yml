@@ -10,7 +10,7 @@
   description: | # this will include new lines to allow paragraphs
     Development and Prototyping of the Flagship project of the startup i.e. a Restaurant Management Platform(point-of-sale) which is being prepared as a Saas. 
     - Writing APIs in Flask
-    - Working on frontend technologies like Angular & Ionic (ngx-admin, Nebular)
+    - Working on frontend technologies like Angular(ngx-admin, Nebular) & Ionic.
   tags: <mark>Flask</mark>
         <mark>Angular 8</mark>
         <mark>Ionic</mark>
