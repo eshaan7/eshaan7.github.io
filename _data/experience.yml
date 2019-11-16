@@ -2,11 +2,11 @@
 
 - layout: left
   company: Unmudl Technologies(Posify)
-  link: zoai.in
+  link: posify.in
   job_title: Fullstack Web Development Intern
   dates: September 2019 - Present
   quote: >
-   Zoai helps hundreds of restaurants run their business: from secure online payments to point-of-sale solutions.
+   Posify helps hundreds of restaurants run their business: from secure online payments to point-of-sale solutions.
   description: | # this will include new lines to allow paragraphs
     Development and Prototyping of the Flagship project of the startup i.e. a Restaurant Management Platform(point-of-sale) which is being prepared as a Saas. 
     - Writing APIs in Flask
