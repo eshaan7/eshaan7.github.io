@@ -2,7 +2,7 @@
 
 Visit : https://eshaan7.github.io/
 
-Eshaan's Online resime!
+Eshaan's Online portfolio!
 
 # Personal website (Old website)
 
