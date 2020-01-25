@@ -21,3 +21,30 @@
     - Features like User Authentication, Account Management, Forgot Password, Notifications, and Full Fledged Logging
     - Hash submission (currently 2 hashes: user and root)
     - Real time scoreboard tracking.
+
+- layout: left
+  name: Food Delivery PWA
+  link: https://order.posify.in/
+  quote: >
+    A Food Delivery App for Vendor, built in Ionic 4 & Angular 8.
+  tags: <mark>Ionic 4</mark>
+        <mark>Angular 8</mark>
+        <mark>Firebase</mark>
+  description: | 
+    - A Food Delivery App for vendor.
+    - Progressive Web App(PWA) deployed on Firebase.
+    - Uses RazorPay API for payments.
+   
+- layout: left
+  name: UnmaskIP
+  link: https://unmaskip.firebaseapp.com/
+  quote: >
+    Web app that scans an IP address to detect whether it's VPN/Proxy and fetch whois record.
+  tags: <mark>Flask</mark>
+        <mark>Angular 8</mark>
+        <mark>PostgreSQL</mark>
+        <mark>ElasticSearch</mark>
+        <mark>echarts.js</mark>
+  description: | 
+    - Web app that scans an IP address to detect whether it's VPN/Proxy and fetches whois record.
+    - Some cool dashboard stuff for the data scientists.
