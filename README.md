@@ -1,10 +1,10 @@
-# Eshaan7.github.io
+# Eshaan7.github.io (v2)
 
 Visit : https://eshaan7.github.io/
 
-Eshaan's Online portfolio!
+Eshaan's Online portfolio using Modern Resume Template.
 
-# Personal website (Old website)
+# Old Portfolio (v2)
 
 Visit: https://eshaan7.github.io/assets/intro/index.html
 
