@@ -37,13 +37,11 @@
           </li>
         {%- endif -%}
 
-        {%- if site.medium_username -%}
         <li>
-          <a target="_blank" href="https://www.medium.com/@{{ site.medium_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
-            <i class="fa fa-medium" title="Medium link"></i>
+          <a target="_blank" href="http://eshaan7.github.io/blog/posts/" class="button button--sacnite button--round-l">
+            <i class="fa fa-blog" title="My blog link"></i>
           </a>
         </li>
-      {%- endif -%}
 
       {%- if site.instagram_username -%}
       <li>
@@ -60,18 +58,23 @@
           Email: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
         </p>
       {%- endif -%}
-      {%- if site.phone -%}
+      <!-- {%- if site.phone -%}
         <p>
           Phone: {{ site.phone | escape }}
         </p>
-      {%- endif -%}
-      {%- if site.website -%}
+      {%- endif -%} -->
+      <!-- {%- if site.website -%}
         <p>
           Web: {% include a.html href=site.website %}{{ site.website | escape }}</a>
         </p>
         <p>
           Old website: <a href="assets/intro/index.html" target="_blank">Say Hi!</a>
         </p>
+      {%- endif -%} -->
+      {%- if site.blog -%}
+      <p>
+        Blog: <a target="_blank" href="{{ site.blog | escape }}">/blog</a>
+      </p>
       {%- endif -%}
       {%- if site.resume -%}
         <p>
