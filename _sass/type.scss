@@ -1,6 +1,5 @@
 body {
   color: #333;
-  font-family: sans-serif !important;
   font-feature-settings: "kern", "liga", "pnum";
   font-size: 1em;
   line-height: 1.5;
@@ -22,8 +21,21 @@ h6 {
   margin: 0 0 0.75em;
 }
 
+.container {
+  font-family: sans-serif;
+}
+
+b, strong {
+  font-weight: 700 !important;
+}
+
+.header-right a {
+  font-weight: 500 !important;
+}
+
 p {
-  margin: 0 0 0.75em; }
+  margin: 0 0 0.75em; 
+}
 
 a {
   color: #477dca;
