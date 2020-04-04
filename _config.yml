@@ -1,6 +1,6 @@
 # Site
 repository: eshaan7/resume
-favicon: assets/favicon.png
+favicon: assets/glider.ico
 
 # Personal info
 name: Eshaan Bansal
@@ -26,13 +26,15 @@ about_content: | # this will include new lines to allow paragraphs
 
   My CS interests currently lie in <mark>Cybersecurity</mark> and <mark>Web Development</mark>.
 
-  The most interesting things happening in my life, right now, academically speaking are:
-  - Serving as part of the core team at DEF CON NCR group, DC91120
-  - Serving as the General Secretary at the cyber security club, <a href="https://techspace.club/" target="_blank">Rooters</a> at USICT.
+  What I am working on right now:
+  - Contributing to the Open Source project, <a href="https://github.com/certego/IntelOwl" target="_blank">IntelOwl</a>.
+  - Practicing on <a href="https://www.hackthebox.eu/profile/256874" target="_blank">HackTheBox.eu</a>
 
   I am actively looking for cybersecurity and research internships for summer 2020. I am available remotely too.
 
   _A pdf version of my resume is available <a href="https://drive.google.com/file/d/1BLJXR_rFFLP7wobE-Fog363JcbH5uttQ/view" target="_blank" >here</a>._
+
+# The most interesting things happening in my life, right now, academically speaking are:
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
