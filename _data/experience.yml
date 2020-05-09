@@ -9,7 +9,7 @@
     The Honeynet Project is a leading international 501c3 non-profit security research organization, 
     dedicated to investigating the latest attacks and developing open source security tools to improve Internet security. 
   description: | # this will include new lines to allow paragraph
-    - Google Summer of Code 2020 Student Developer under <a href="https://www.honeynet.org/" target="_blank" >The Honeynet Project</a>
+    - <mark>Google Summer of Code 2020</mark> Student Developer under <a href="https://www.honeynet.org/" target="_blank" >The Honeynet Project</a>
     - Working on <a href="https://github.com/certego/intelowl" target="_blank" >Intel Owl</a>, a threat intelligence data gathering API.
     - Adding support for additional external analyzers such as HoneyDB, Hunter, PEframe, etc.
     - Completely new web interface (built with Angular 9). Live <a target="_blank" href="https://intelowlclient.firebaseapp.com/">Demo</a>.
