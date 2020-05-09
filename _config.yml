@@ -4,7 +4,7 @@ favicon: assets/glider.ico
 
 # Personal info
 name: Eshaan Bansal
-title: Pentester | Fullstack Developer | CTF player | Sophomore at USICT
+title: GSoC'20 | Pentester | Fullstack Developer | CTF player | Sophomore at USICT
 email: eshaan7bansal@gmail.com
 resume: https://drive.google.com/file/d/1BLJXR_rFFLP7wobE-Fog363JcbH5uttQ/view
 website: https://eshaan7.github.io/
@@ -27,10 +27,11 @@ about_content: | # this will include new lines to allow paragraphs
   My CS interests currently lie in <mark>Cybersecurity</mark> and <mark>Web Development</mark>.
 
   What I am working on right now:
-  - Contributing to the Open Source project, <a href="https://github.com/certego/IntelOwl" target="_blank">IntelOwl</a>.
-  - Practicing on <a href="https://www.hackthebox.eu/profile/256874" target="_blank">HackTheBox.eu</a>
+  - GSoC'20 student developer for <a href="https://github.com/certego/IntelOwl" target="_blank">IntelOwl</a> 
+  under <a href="https://www.honeynet.org/" target="_blank" >The Honeynet Project</a>
+  - Practicing on <a href="https://www.hackthebox.eu/profile/256874" target="_blank">HackTheBox.eu</a>.
 
-  I am actively looking for cybersecurity and research internships for summer 2020. I am available remotely too.
+  I am looking for cybersecurity, software development or research internships for winter 2020. I am available remotely too.
 
   _A pdf version of my resume is available <a href="https://drive.google.com/file/d/1BLJXR_rFFLP7wobE-Fog363JcbH5uttQ/view" target="_blank" >here</a>._
 

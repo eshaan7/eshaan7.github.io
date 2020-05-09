@@ -1,6 +1,26 @@
 # Experience template
 
 - layout: left
+  company: The Honeynet Project
+  link: https://summerofcode.withgoogle.com/projects/#5634812913647616
+  job_title: GSoC Student Developer
+  dates: June 2020 - August 2020
+  quote: >
+    The Honeynet Project is a leading international 501c3 non-profit security research organization, 
+    dedicated to investigating the latest attacks and developing open source security tools to improve Internet security. 
+  description: | # this will include new lines to allow paragraph
+    - Google Summer of Code 2020 Student Developer under <a href="https://www.honeynet.org/" target="_blank" >The Honeynet Project</a>
+    - Working on <a href="https://github.com/certego/intelowl" target="_blank" >Intel Owl</a>, a threat intelligence data gathering API.
+    - Adding support for additional external analyzers such as HoneyDB, Hunter, PEframe, etc.
+    - Completely new web interface (built with Angular 9). Live <a target="_blank" href="https://intelowlclient.firebaseapp.com/">Demo</a>.
+  tags: <mark>Django</mark>
+        <mark>Angular 9</mark>
+        <mark>PostgreSQL</mark>
+        <mark>OSINT</mark>
+        <mark>Celery</mark>
+
+
+- layout: left
   company: Unmudl Technologies(Posify)
   link: posify.in
   job_title: Fullstack Web Development Intern
@@ -8,8 +28,8 @@
   quote: >
    Posify helps hundreds of restaurants run their business: from secure online payments to point-of-sale solutions.
   description: | # this will include new lines to allow paragraph
-    - Worked on a Point Of Sale (POS) system(used Angular 8, Nebular, ngx-admin)
-    - Developed an e-commerce food delivery PWA in Ionic(Angular) with Firebase backend. Available @ Order.posify.in
+    - Worked on a Point Of Sale (POS) system (used Angular 8, Nebular, ngx-admin)
+    - Developed an e-commerce food delivery PWA in Ionic (Angular) with Firebase backend. Available @ Order.posify.in
     - Writing APIs in Flask, working on celery tasks, defining complex models using SQLAlchemy
     - Used PostgreSQL, Redis, Elasticsearch, etc.
     - Internship Letter: <a href="https://drive.google.com/open?id=1Ms9CzYmaee0I0Qp3JLOsC3m8-mz97JCO" target="_blank">here</a>
