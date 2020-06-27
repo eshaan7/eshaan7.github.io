@@ -1,6 +1,22 @@
 # Project template
 
 - layout: left
+  name: Flask-Shell2HTTP
+  link: https://github.com/Eshaan7/Flask-Shell2HTTP
+  github: eshaan7/flask-shell2http
+  quote: >
+    A minimalist Flask extension that serves as a REST API wrapper for python's subprocess API. 
+  tags: <mark>Flask</mark>
+        <mark>PyPi library</mark>
+  description: | 
+    Map shell commands to flask's endpoints and query asynchronously.
+      - Convert any command-line tool into a REST API service.
+      - Execute pre-defined shell commands asynchronously and securely from flask's endpoints.
+      - Designed for development, prototyping or remote control.
+      - Published on <a href="https://pypi.org/project/Flask-Shell2HTTP/" target="_blank">PyPi</a>.
+
+
+- layout: left
   name: RootTheBox - A CTF Framework in Flask 
   link: https://rtblivedemo.herokuapp.com/
   github: abs0lut3pwn4g3/RTB-CTF-Framework/
@@ -14,10 +30,11 @@
   description: | # this will include new lines to allow paragraphs
     - Completely configurable CTF instance can be up and running on Heroku in 2 minutes with a single click.
     - Employed libraries such as: SQLAlchemy, WTForms, Flask-Login, Flask-admin for Admin views and easy realtime management
-    - A page to show relevant details about the machine such as: IP, OS, points and difficulty level. Same for challenges.
+    - Challenges listing and machine listings with various tags/ Operating systems to choose from.
     - Features like User Authentication, Account Management, Forgot Password, Notifications, and Full Fledged Logging
-    - Hash submission (currently 2 hashes: user and root)
+    - Flag submission (currently 2 hashes: user and root)
     - Real time scoreboard tracking.
+
 
 - layout: left
   name: Food Delivery PWA
@@ -32,17 +49,4 @@
     - Uses RazorPay API for payments.
     - Firebase for backend and storage.
    
-- layout: left
-  name: UnmaskIP
-  link: https://unmaskip.firebaseapp.com/
-  github: eshaan7/unmaskip
-  quote: >
-    Web app that scans an IP address to detect whether it's VPN/Proxy and fetch whois record.
-  tags: <mark>Flask</mark>
-        <mark>Angular 8</mark>
-        <mark>PostgreSQL</mark>
-        <mark>ElasticSearch</mark>
-        <mark>echarts.js</mark>
-  description: | 
-    - Web app that scans an IP address to detect whether it's VPN/Proxy and fetches whois record.
-    - Some cool dashboard stuff for the data scientists.
+
