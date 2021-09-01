@@ -4,14 +4,14 @@ favicon: assets/glider.ico
 
 # Personal info
 name: Eshaan Bansal
-title: GSoC'20 | Fullstack Developer | Pentester
+title: Security Software Developer
 email: eshaan7bansal@gmail.com
 resume: https://drive.google.com/file/d/1BLJXR_rFFLP7wobE-Fog363JcbH5uttQ/view
 website: https://eshaan7.github.io/
 blog: http://eshaan7.github.io/blog/
 
 # Social links
-twitter_username: mask0fmydisguis
+twitter_username: eshaan7_0
 github_username: eshaan7
 # medium_username: eshaan7
 # instagram_username: maskofmydisguise
@@ -22,20 +22,21 @@ linkedin_username: eshaan7
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  I am a sophomore pursuing B.Tech in IT at <a href="http://ipu.ac.in/usict" target="_blank">USICT</a>, GGSIP University Main Campus. 
+  I am an IT student with interests in <mark>Cybersecurity</mark> and <mark>Fullstack Software Development</mark>.
 
-  My CS interests currently lie in <mark>Cybersecurity</mark> and <mark>Backend Engineering</mark>.
-
-  What I am working on right now:
-  - Backend and Security Intern at [Trell.co](https://trell.co)
+  Some of my recent work:
   - 🦉 Principal maintainer for <a href="https://github.com/certego/IntelOwl" target="_blank">IntelOwl</a>
   under <a href="https://www.honeynet.org/" target="_blank" >The Honeynet Project</a>. (GSoC'20 student developer)
-  - <a target="_blank" href="https://github.com/Eshaan7/Flask-Shell2HTTP">🐍 Flask-Shell2HTTP</a>: 
+  - <a target="_blank" href="https://github.com/Eshaan7/Flask-Shell2HTTP">🐍 Flask-Shell2HTTP</a>:
   A minimalist Flask extension that serves as a REST/HTTP wrapper for python's subprocess API. Map shell commands to flask's endpoints and query asynchronously. 
   - <a target="_blank" href="https://github.com/Eshaan7/django-rest-durin">🐍 Django-Rest-Durin</a>: 
   Per API Client Token Authentication for Django Rest Framework.
+  - <a target="_blank" href="https://github.com/Eshaan7/click-creds">🐍 click-creds</a>: 
+  Pluggable credentials storage and management for click CLI apps.
 
-  Are you hiring ? I am looking for cybersecurity, software development or research internships starting from January 2020. I am available remotely too.
+  Working:
+  - Software Eng. (Threat Intel) @ [Certego](https://www.certego.net/en/).
+  - Past SWE (intern) @ [Trell.co](https://trell.co).
 
   _A pdf version of my resume is available <a href="https://drive.google.com/file/d/1BLJXR_rFFLP7wobE-Fog363JcbH5uttQ/view" target="_blank" >here</a>._
 
