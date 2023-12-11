@@ -22,24 +22,31 @@ linkedin_username: eshaan7
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  I am an IT student with interests in <mark>Cybersecurity</mark> and <mark>Fullstack Software Development</mark>.
+  I am Eshaan, a 23 year old software engineer based in India. In my short lived career, I have worked on various kinds of software products involving cyber threat intelligence, malware analysis, content delivery networks, social media networks, developer tools, static analysis, restaurant management platform and more.
 
-  Some of my recent work:
-  - 🦉 Principal maintainer for <a href="https://github.com/certego/IntelOwl" target="_blank">IntelOwl</a>
-  under <a href="https://www.honeynet.org/" target="_blank" >The Honeynet Project</a>. (GSoC'20 student developer)
-  - <a target="_blank" href="https://github.com/Eshaan7/Flask-Shell2HTTP">🐍 Flask-Shell2HTTP</a>:
-  A minimalist Flask extension that serves as a REST/HTTP wrapper for python's subprocess API. Map shell commands to flask's endpoints and query asynchronously. 
-  - <a target="_blank" href="https://github.com/Eshaan7/django-rest-durin">🐍 Django-Rest-Durin</a>: 
-  Per API Client Token Authentication for Django Rest Framework.
-  - <a target="_blank" href="https://github.com/Eshaan7/click-creds">🐍 click-creds</a>: 
-  Pluggable credentials storage and management for click CLI apps.
+  #### Continuous Open-Source Work
+  - 🦉  <a href="https://github.com/certego/IntelOwl" target="_blank">**IntelOwl**</a>: Principal maintainer of the project under <a href="https://www.honeynet.org/" target="_blank" >The Honeynet Project</a>. (GSoC'20 participant, GSoC'21,'22 mentor)
 
-  Working:
-  - Software Eng. (Threat Intel) @ [Certego](https://www.certego.net/en/).
-  - Past SWE (intern) @ [Trell.co](https://trell.co).
+ #### Packages written by me:
 
-  _A pdf version of my resume is available <a href="https://drive.google.com/file/d/1BLJXR_rFFLP7wobE-Fog363JcbH5uttQ/view" target="_blank" >here</a>._
+ ##### ⚛️ JavaScript
+ - <a target="_blank" href="https://github.com/certego/certego-ui">**certego-ui**</a>: Design framework and components library built over React.js and reactstrap.
 
+ ##### 🐍 Python
+ - <a target="_blank" href="https://github.com/Eshaan7/Flask-Shell2HTTP">**Flask-Shell2HTTP**</a>:
+ A minimalist Flask extension that serves as a REST/HTTP wrapper for python's subprocess API. Map shell commands to flask's endpoints and query asynchronously. 
+ - <a target="_blank" href="https://github.com/Eshaan7/django-rest-durin">**Django-Rest-Durin**</a>: 
+ Per API Client Token Authentication for Django Rest Framework.
+ - <a target="_blank" href="https://github.com/Eshaan7/click-creds">**click-creds**</a>: 
+ Pluggable credentials storage and management for click CLI apps.
+ - <a target="_blank" href="https://github.com/certego/certego-saas">**certego-saas**</a>: Python package consisting of common and re-usable django apps required by all of certego SaaS products.
+ - <a target="_blank" href="https://github.com/certego/django-rest-client">**django-rest-client**</a>: Framework for rapid building of ease-of-use, type-hinted and self-documented API clients in python.
+
+ #### Work Experience:
+ - SDE III @ [DeepSource](https://deepsource.com) (as [@eshaan-deepsource](https://github.com/eshaan-deepsource)).
+ - (Past) Software Engineer (Threat Intel) @ [Certego](https://www.certego.net/en/).
+ - (Past) SDE intern @ [Trell](https://trell.co).
+ 
 # The most interesting things happening in my life, right now, academically speaking are:
 
 # Projects Section
